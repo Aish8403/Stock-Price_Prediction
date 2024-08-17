@@ -1,3 +1,3 @@
 # Project1 <br>
-Plany disease detection <br>
+Plant disease detection <br>
 Uploading the files soon 
