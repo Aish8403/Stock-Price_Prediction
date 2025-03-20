@@ -35,8 +35,8 @@ An advanced gradient boosting algorithm that is widely used for structured data 
 
 ---
 
-## ✨ Contributors
-👤 **Your Name**  
+## ✨ Contributor
+👤 **Aishwarya Nagpure**  
 📧 Email: aishwarya8403@gmail.com  
 
 ---
